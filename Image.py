@@ -1,4 +1,4 @@
-import OpenCv
+
 import cv2
 import numpy as np
 color=(200,100,200)
